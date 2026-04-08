@@ -1,5 +1,5 @@
 ## Repository overview
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19476576.svg)](https://doi.org/10.5281/zenodo.19476576)
 This repository accompanies the paper
 "Markov reads Puškin, again: A statistical journey into the poetic world of Evgenij Onegin".
 
@@ -8,6 +8,10 @@ to Markovian modeling, bootstrap validation, and phonological probing via contex
 
 The repository is **not** intended as a general-purpose package, but as a **transparent, inspectable 
 research compendium**.
+
+## Citation
+If you use this dataset, please cite:
+Sabatini, A.M. (2026). *Markov Onegin Data (v1.0)*. Zenodo. https://doi.org/10.5281/zenodo.19476576
 
 ## Folder structure
 
